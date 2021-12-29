@@ -3,7 +3,7 @@ Hey People, This is just a simple remake of Instagram with [Jetpack Compose](htt
 
 # Where is the source code😶?
 
-This isn't completed yet😔 and since this is kind of a unique project so its very obvious people will try to steal it😈. I can assure you that I'll be uploading the full source code when it will be completely ready🤗.
+This isn't a production grade app😔 and since this is kind of a unique project so its very obvious people will try to steal it😈. I can assure you that I'll be uploading the full source code when it will be completely ready🤗.
 
 # Superheroes behind the scene 🦸
 
@@ -11,3 +11,12 @@ Abhishek and Agnibha. ✨
 
 # Download
 [Click Here](https://github.com/AgnibhaRay/Instagram/releases/tag/v1.0.1-alpha)
+
+# Download Guide
+# Step 1
+![step 1](https://user-images.githubusercontent.com/64902131/147673268-aaa0e97a-2a43-48ad-91ed-4a641ccba98a.jpeg)
+# Step 2
+Just Simply click on it and it will start downloading
+
+![step 2](https://user-images.githubusercontent.com/64902131/147673441-6979702a-2f38-4a38-a56f-c5af136aa8fc.jpeg)
+
