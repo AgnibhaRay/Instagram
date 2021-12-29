@@ -10,7 +10,7 @@ This isn't a production grade app😔 and since this is kind of a unique project
 Abhishek and Agnibha. ✨ 
 
 # Download
-[Click Here](https://github.com/AgnibhaRay/Instagram/releases/tag/v1.0.1-alpha)
+[Click Here](https://github.com/AgnibhaRay/Instagram/releases/tag/v1.0.1-beta)
 
 # Download Guide
 # Step 1
